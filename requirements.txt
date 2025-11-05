@@ -1,0 +1,9 @@
+# Interactive Brokers Options Auto-Stop Manager
+# Python dependencies
+
+# Timezone handling for execution time parsing
+pytz>=2021.3
+
+# Note: ibapi library is included in the repository
+# It comes from Interactive Brokers TWS API installation
+# No pip installation required

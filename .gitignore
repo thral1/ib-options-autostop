@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.virtualenv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.json
+*.ipynb
+.ipynb_checkpoints/
+
+# Test files
+mock_*.csv
+mock_*.json
+trades/
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
+
+# Logs
+*.log
+log.*
+core
